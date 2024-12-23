@@ -53,7 +53,7 @@ Duration: -Aug-2020 – May-2022
 ## 🎓 Educational Qualification:
 |     Degree      |  University/Board |                Institute               | Year of Passing |
 |:----------------|:-----------------:|:--------------------------------------:|---------------: |
-| **MCA**         |      Jamia        | Jamia Millia Islamia                   |                 |
+| **MCA**         |      Jamia        | Jamia Millia Islamia                   |2020             |
 | **BCA**         |      TMU          | Teerthanker Mahaveer University        |2017             |
 | **12th**        |      C.B.S.E      | PMS Public School                      |2014             |
 | **10th**        |      C.B.S.E      | PMS Public School                      |2012             |
