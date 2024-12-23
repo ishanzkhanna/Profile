@@ -15,12 +15,9 @@ Having total experience of 4+ Years till date.
 
 ## 📖 Profile Summary and Areas of Expertise:
 
-Presently serving as a Senior Quality Engineer (Senior-QE) at Optum Global Solution (UHG) Pvt Ltd, Gurgaon, with a cumulative experience of 2.6 years. Specialized in Software Manual and Automation Testing on ORMB.</br>
-
-Previously held the role of an Analyst in Software Testing [QA/QC] at Wipro Limited, Noida, accumulating over 3 years of progressive experience. Proficient in Software Manual, Automation Testing, and Configuration under Benefits administration.</br>
-
-Previously worked as a Member of Technical Staff – QA at Blue Whale Advisory Services Pvt Ltd, Gurgaon, contributing over 8 months of progressive experience in Software Manual and Automation Testing, along with API testing.
-
+Knowledgeable Data Engineer with robust background in data architecture and pipeline development. Proven ability to streamline data processes and enhance data 
+integrity through innovative solutions. Demonstrates advanced proficiency in SQL and Python, leveraging these skills to support cross-functional teams and drive data
+driven decision-making.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-khanna-778789171/) 
