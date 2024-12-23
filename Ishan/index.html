@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Ishan Khanna | Portfolio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav>
+    <div class="menu-icon" onclick="toggleMenu()">☰</div>
+    <ul class="nav-links" id="navLinks">
+      <li><a href="#introduction">Introduction</a></li>
+      <li><a href="#skills">Tech Skills</a></li>
+      <li><a href="#work-experience">Work Experience</a></li>
+      <li><a href="#education">Education</a></li>
+      <li><a href="#achievements">Achievements</a></li>
+      <li><a href="Ishan_KhannaResume.pdf" download>Download Resume</a></li>
+    </ul>
+  </nav>
+
+  <header>
+    <div class="container">
+      <h1>Ishan Khanna</h1>
+      <p>Data Engineer | Big Data and Automation | Data Engineer Skills</p>
+    </div>
+  </header>
+
+  <main>
+    <section id="introduction" class="intro">
+      <div class="content">
+        <h2>✍ My Objective</h2>
+        <p>Striving to contribute efficiently and effectively, adding value to the employer to achieve organizational goals. Aiming to enhance personal knowledge and grow alongside the employer.</p>
+        <h2>👜 Total Experience</h2>
+        <p>Having total experience of 4+ years till date.</p>
+      </div>
+      <div class="profile-image">
+        <img src="profile.jpg" alt="Ishan Khanna">
+      </div>
+    </section>
+
+    <section id="skills" class="skills">
+      <h2>💻 Tech Skills</h2>
+      <div class="skills-list">
+        <span>Hive</span>
+        <span>Hadoop</span>
+        <span>Python</span>
+        <span>Pyspark</span>
+        <span>ADF</span>
+        <span>Jira</span>
+      </div>
+    </section>
+
+    <section id="work-experience" class="work-experience">
+      <h2>💼 Work Experience</h2>
+      <div class="job">
+        <h3>Cognizant, Noida</h3>
+        <p>Domain: Finance | Client: American Express</p>
+        <p>Duration: Nov-2023 - Present</p>
+      </div>
+      <div class="job">
+        <h3>Optum Global Solutions, Noida</h3>
+        <p>Domain: Healthcare | Project: Speech Analytics</p>
+        <p>Duration: May-2022 – Sep-2023</p>
+      </div>
+      <div class="job">
+        <h3>EXL Services, Noida</h3>
+        <p>Domain: HealthCare | Clients: Aetna</p>
+        <p>Duration: Aug-2020 – May-2022</p>
+      </div>
+    </section>
+
+    <section id="education" class="education">
+      <h2>🎓 Educational Qualification</h2>
+      <table>
+        <tr>
+          <th>Degree</th>
+          <th>University/Board</th>
+          <th>Institute</th>
+          <th>Year of Passing</th>
+        </tr>
+        <tr>
+          <td>MCA</td>
+          <td>Jamia Millia Islamia</td>
+          <td>Jamia Millia Islamia</td>
+          <td>2020</td>
+        </tr>
+        <tr>
+          <td>BCA</td>
+          <td>TMU</td>
+          <td>Teerthanker Mahaveer University</td>
+          <td>2017</td>
+        </tr>
+        <tr>
+          <td>12th</td>
+          <td>C.B.S.E</td>
+          <td>PMS Public School</td>
+          <td>2014</td>
+        </tr>
+        <tr>
+          <td>10th</td>
+          <td>C.B.S.E</td>
+          <td>PMS Public School</td>
+          <td>2012</td>
+        </tr>
+      </table>
+    </section>
+
+  </main>
+
+  <footer>
+    <p>© 2024 Ishan Khanna. All Rights Reserved.</p>
+  </footer>
+
+  <script>
+    function toggleMenu() {
+      const navLinks = document.getElementById('navLinks');
+      navLinks.classList.toggle('active');
+    }
+  </script>
+</body>
+</html>
