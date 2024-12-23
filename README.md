@@ -24,7 +24,11 @@ driven decision-making.
 
 ## 💻 Tech Skills:
 ![Python](https://img.shields.io/badge/Python-blue?style=plastic&logo=python&logoColor=black)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![ORMB](https://img.shields.io/badge/ORMB-%23F24E1E.svg?style=plastic&logo=ORMB&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-%234ea94b.svg?style=plastic&logo=MySQL&logoColor=white) ![Rally](https://img.shields.io/badge/Rally-%23F24E1E.svg?style=plastic&logo=Rally&logoColor=white) ![TestRail](https://img.shields.io/badge/TestRail-%234ea94b.svg?style=plastic&logo=TestRail&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=Selenium&logoColor=white) ![Intellij Idea](https://img.shields.io/badge/Intellij%20Idea-%23000000.svg?style=plastic&logo=intellij-idea&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=plastic&logo=jenkins&logoColor=white) ![HIVE](https://img.shields.io/badge/HIVE-green?style=plastic&logo=hive&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-%234ea94b.svg?style=plastic&logo=MySQL&logoColor=white) ![Rally](https://img.shields.io/badge/Rally-%23F24E1E.svg?style=plastic&logo=Rally&logoColor=white) ![Static Badge](https://img.shields.io/badge/Pyspark-orange?style=plastic&logo=apache-spark&logoColor=black)
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=plastic&logo=jira&logoColor=white) ![Bash](https://img.shields.io/badge/Shell%20Script-red?style=plastic&logo=linux&logoColor=black) ![ADF](https://img.shields.io/badge/Azure%20Data%20Factory-blue?style=plastic&logoColor=black)
+
+
 
 ## 💼 Work Experience:
 
