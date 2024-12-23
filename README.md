@@ -48,23 +48,15 @@ Duration: -Aug-2020 – May-2022
 ## 🎓 Educational Qualification:
 |     Degree      |  University/Board |                Institute               | Year of Passing |
 |:----------------|:-----------------:|:--------------------------------------:|---------------: |
-| **B.Tech(ECE)** |      APJAKTU      | Bharat Institute of technology ,Meerut |2018             |
-| **12th**        |      C.B.S.E      | K.C.M School                           |2014             |
-| **10th**        |      C.B.S.E      | SS.Children Academy                    |2012             |
+| **MCA**         |      Jamia        | Jamia Millia Islamia                   |                 |
+| **BCA**         |      TMU          | Teerthanker Mahaveer University        |2017             |
+| **12th**        |      C.B.S.E      | PMS Public School                      |2014             |
+| **10th**        |      C.B.S.E      | PMS Public School                      |2012             |
 
-## 📚 Trainings undergone:
-•	Organization         : IBM India Pvt.Ltd </br>
-•	Training Duration.   : 6 Weeks </br>
-•	Project Name         : Internet of Things (IOT)
+
 
 ## 📋 Strength:
 •	Demonstrates strong analytical skills </br>
 •	Adapts easily to change </br>
 •	Displays a curious mindset and a willingness to learn new concepts </br>
 •	Proven proficiency in problem-solving
-
-# 📈 My Achievements:
-•	Honored with the "Shimmer" Certificate of Appreciation for dedication and contributions that met Client deadlines. </br>
-•	Achieved the "eCAT Warrior" recognition for zero eCAT defects in Annual Enrollment (annual process). </br>
-•	Received appreciation emails from both the manager and onshore lead. </br>
-•	Holder of a VMware Virtualization certification earned during B.Tech.
