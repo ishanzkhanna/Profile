@@ -32,11 +32,17 @@ driven decision-making.
 
 ## 💼 Work Experience:
 
+### <img src = "images.png" width = 20 height =20>  Cognizant, Noida
+
+Domain: - Finance </br>
+Client: - NA </br>
+Duration: - January-2025 - Year Till date
+
 ### <img src = "cognizant.ico" width = 20 height =20>  Cognizant, Noida
 
 Domain: - Finance </br>
 Client: - American Express </br>
-Duration: - Nov-2023 - Year Till date
+Duration: - Nov-2023 - January-2025
 
 ### <img src = "Optum.ico" width = 20 height =20> Optum Global Solutionns, Noida
 
