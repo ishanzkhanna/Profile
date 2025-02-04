@@ -32,7 +32,7 @@ driven decision-making.
 
 ## 💼 Work Experience:
 
-### <img src = "images.png" width = 20 height =20>  Cognizant, Noida
+### <img src = "images.png" width = 20 height =20>  IBM, Gurugram
 
 Domain: - Finance </br>
 Client: - NA </br>
